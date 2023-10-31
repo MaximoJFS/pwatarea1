@@ -3,11 +3,11 @@
 <head>
     <title>Mi primera página web</title>
 </head>
-<body>
+<body style="background-color: #FAEBD7;">
     <h1>Hola, Mundo!</h1>
     <p>Mi nombre es Maximo Franco</p>
 
-    <a href="URL_de_tu_red_social" target="_black">Mi página de redes sociales favorita</a>
+    <a href="www.facebook.com" target="_black">Mi página de redes sociales favorita</a>
 
     <ul>
         <li>Leer libros</li>
@@ -22,11 +22,11 @@
         </tr>
         <tr>
             <td>Ecuador</td>
-            <td>quito</td>
+            <td>Quito</td>
         </tr>
         <tr>
-            <td>Japón</td>
-            <td>Tokio</td>
+            <td>Colombia</td>
+            <td>Bogota</td>
         </tr>
     </table>
 
@@ -71,8 +71,8 @@
          .caja {
              width: 150px;
              height: 100px;
-             background-color: #2291db; 
-             border: 2px solid #2950b9; 
+             background-color: #4B0082; 
+             border: 2px solid #7FFFD4; 
              border-radius: 10px; 
              text-align: center;
              padding: 30px;
@@ -130,15 +130,15 @@
     </div>
 
     
-    <div id="seccion1" style="height: 150px; background-color: #2498db;">
+    <div id="seccion1" style="height: 150px; background-color: #FF7F50;">
         <h2>Sección 1</h2>
     </div>
 
-    <div id="seccion2" style="height: 150px; background-color: #e54c3c;">
+    <div id="seccion2" style="height: 150px; background-color: #8B008B;">
         <h2>Sección 2</h2>
     </div>
 
-    <div id="seccion3" style="height: 150px; background-color: #25ae60;">
+    <div id="seccion3" style="height: 150px; background-color: #B22222;">
         <h2>Sección 3</h2>
     </div>
 </body>
@@ -282,7 +282,6 @@
                  </section>
              </aside>
          </div>
-
          <footer>
              <p>&copy; 2023 Maximo. Todos los derechos reservados.</p>
          </footer>
